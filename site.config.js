@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "alex",
+    image: "public/Screen Shot 2022-08-07 at 9.36.30 AM.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
-    bio: "I develop everything using node.",
+    bio: "I want to share computer things that I find interesting with others and also create a repository for my own reference :) I hope you find something helpful.",
     email: "alexis.richter7@gmail.com",
     linkedin: "https://www.linkedin.com/in/alexis-richter-9b4852145",
     github: "ajrichter7",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "knowledge dump",
+    description: "welcome to my personal blog for all things tech and easy tutorials",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
