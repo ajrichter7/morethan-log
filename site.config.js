@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "aj richter",
+    name: "alex richter",
     image: "notion-avatar-1687444769782.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "I want to share computer things that I find interesting with others and also create a repository for my own reference :) I hope you find something helpful.",
@@ -14,6 +14,14 @@ const CONFIG = {
     {
       name: `Cytoscape`,
       href: "https://github.com/ajrichter7/summerResearch",
+    },
+    {
+      name: `Women in Systems`,
+      href: "https://ieeexplore.ieee.org/document/10042092",
+    },
+    {
+      name: `Gendered Evaluations`,
+      href: "https://github.com/ajrichter7/gender-bias",
     },
   ],
   // blog setting (required)
